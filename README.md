@@ -1,0 +1,2 @@
+# QpRiy
+customer publishing repository
